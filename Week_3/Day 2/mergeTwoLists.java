@@ -14,7 +14,7 @@ class Solution {
             current = current.next;
         }
 
-        // Attach remaining nodes
+        
         if (list1 != null) {
             current.next = list1;
         } else {
