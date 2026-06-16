@@ -1,4 +1,4 @@
-public class Solution {
+public class HasCycle {
     public boolean hasCycle(ListNode head) {
         ListNode slow = head;
         ListNode fast = head;

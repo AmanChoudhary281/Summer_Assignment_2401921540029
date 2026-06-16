@@ -14,7 +14,7 @@ class Saxophone implements Playable {
     }
 }
 
-public class Test {
+public class Test{
     public static void main(String[] args) {
 
         Veena veena = new Veena();
